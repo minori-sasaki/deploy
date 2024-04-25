@@ -1,3 +1,3 @@
 // 正常
 
-console.log("正常")
+console.log("異常")
